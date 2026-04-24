@@ -1,0 +1,7 @@
+project_id = "placement-cell"
+
+[functions.match-recommendations]
+verify_jwt = false
+
+[functions.parse-resume]
+verify_jwt = true
